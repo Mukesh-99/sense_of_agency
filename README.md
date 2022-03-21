@@ -38,7 +38,7 @@ Code for implementing a BrainGate research session exploring a sense of agency w
  
 **Testing:**
 
-- `timing_training.py` and `main_wo_survey_qs.py` may be run from the command line as with `python file_name.py` as long as `python` maps to a version with psychopy installed as a requirement. 
+- `timing_training.py` and `main_wo_survey_qs.py` may be run from the command line (example: `python file_name.py`) as long as `python` maps to a version with psychopy installed as a requirement. 
 
  <br />
 
