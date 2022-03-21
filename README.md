@@ -14,8 +14,8 @@ Code for implementing a BrainGate research session exploring a sense of agency w
 
 ### Key Files
 
-- `sense-of-agency/timing_training.py`: practice psychopy experiment, giving the participant exposure to estimating time delays. 
-- `sense-of-agency/main_wo_survey_qs.py`: main psychopy experiment file. 
+- `sense-of-agency/timing_training.py`: practice psychopy session, giving the participant exposure to estimating time delays. 
+- `sense-of-agency/main_wo_survey_qs.py`: main psychopy session file. 
 
  <br />
  
@@ -28,7 +28,7 @@ Code for implementing a BrainGate research session exploring a sense of agency w
  
  
  
-### Launching the experiment
+### Launching the session
 
 **During a session:**
 
