@@ -1,7 +1,7 @@
 # sense-of-agency
 
 
-Sessions testing a sense of agency with BrainGate's iBCI system, intended to be launched on the user's computer, and interacted with using BG Home.
+Code for implementing a BrainGate research session exploring a sense of agency with BrainGate's iBCI system (intended to be launched on the user's computer, and interacted with using BG Home). 
 
  <br />
 
