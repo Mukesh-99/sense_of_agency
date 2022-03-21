@@ -30,7 +30,7 @@ Code for implementing a BrainGate research session exploring a sense of agency w
  
 ### Launching the session
 
-**During a session:**
+**During a session: (with the rest of the research-sessions repository)**
 
 - run research-sessions/Scripts/Start_Sense_of_Agency_PRACTICE.bat
 - run research-sessions/Scripts/Start_Sense_of_Agency_MAIN.bat
