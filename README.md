@@ -44,7 +44,7 @@ Code for implementing a BrainGate research session exploring a sense of agency w
 
 ### Reintegrating with the BrainGate code base...
 
-- When adding files back to research-sessions/ BrainGate repo, all of this code is contained within the "PythonGames/" directory
+- When adding files back to research-sessions/ BrainGate repo, all of this code is contained within the "`research-sessions/Games/PythonGames/`" directory
 - research-sessions/Scripts/ should contain a bat file to start each applicable python script! (`research-sessions/Scripts/Start_Sense_of_Agency_MAIN.bat`)
 
 
